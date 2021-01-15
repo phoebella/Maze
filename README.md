@@ -19,5 +19,5 @@ Designed a maze in OpenGL, defined and allocated an avatar at the entrance of th
 
 
 ## Interface
-![Maze](maze.JPG)
+![Ray_tracer](maze.JPG)
 
